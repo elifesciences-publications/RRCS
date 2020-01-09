@@ -1,4 +1,6 @@
 # RRCS
+### This code is associated with the paper from Zhou et al., "Common activation mechanism of class A GPCRs". eLife, 2019. http://dx.doi.org/10.7554/eLife.50279
+
 RRCS (Residue-residue contact score)
 
 RRCS can quantitatively evaluates residue contacts based on structural information. Please see workflow.jpg for the workflow of RRCS calculation.
